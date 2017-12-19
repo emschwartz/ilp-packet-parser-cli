@@ -1,0 +1,17 @@
+{
+  "name": "ilp-packet-parser-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "parse.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "ilp-parse": "./parse.js"
+  },
+  "author": "",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "ilp-packet": "^2.0.0"
+  }
+}
